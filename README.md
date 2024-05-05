@@ -25,3 +25,7 @@ The entire ecosystem of the Oracle network can be tokenized in multiple ways, of
 
 ## Conclusion
 The Oracle network over Minima and Maxima represents a significant advancement in decentralized infrastructure, offering a scalable, secure, and versatile platform for data exchange and smart contract execution. With its robust architecture, diverse services, and tokenization capabilities, the network is poised to drive innovation and transform various industries in the decentralized ecosystem.
+
+## General Overview Graph
+![overview](DOCS/images/overview_oracle_network_2.png)
+
